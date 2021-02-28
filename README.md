@@ -1,4 +1,5 @@
 ### Hi there 👋
+*.pyc
 
 <!--
 **wang-far/wang-far** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
